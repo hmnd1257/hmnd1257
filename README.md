@@ -10,7 +10,7 @@
 - <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=Pytorch&logoColor=white">
 
 ## 📘 Paper
-**[Recovering Microscopic Images in Material Science Documents by Image Inpainting](https://doi.org/10.3390/app13064071)** (Mar 2023)
+- **[Recovering Microscopic Images in Material Science Documents by Image Inpainting](https://doi.org/10.3390/app13064071)** (Mar 2023)
 
 [![hmnd1257's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmnd1257&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/hmnd1257)
 
